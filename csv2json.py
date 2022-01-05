@@ -1,4 +1,3 @@
-#!/usr/bin/python3.9
 """
 //! objectives:
 //! Download any csv from web (cols > 5, rows > 10)
