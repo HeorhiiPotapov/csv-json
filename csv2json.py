@@ -88,10 +88,4 @@ if __name__ == "__main__":
             to_json(config['CSV_'], config['JSON_'])
             print('provide localy placed file to work with')
     except ValueError:
-        print(
-            """
-            provide input and output file as commandline arguments
-            here is the link on github repo, https://github.com/whoami911329/python-csv-to-json-formater
-            where yo can find most of documentation. 
-            """
-        )
+        pass
