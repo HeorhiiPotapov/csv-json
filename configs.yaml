@@ -1,19 +1,19 @@
-{
-  CACHED: True,
-  CSV_: in.csv,
-  JSON_: out.json,
-  HEADER:
-    [
-      'Last name',
-      'First name',
-      'SSN',
-      'Test1',
-      'Test2',
-      'Test3',
-      'Test4',
-      'Final',
-      'Grade'
-    ],
-  PRETTY: True,
-  URL: https://people.sc.fsu.edu/~jburkata/csv/grades.csv
-}
+
+CACHED: True,
+CSV_: in.csv,
+JSON_: out.json,
+HEADER:
+  [
+    'Last name',
+    'First name',
+    'SSN',
+    'Test1',
+    'Test2',
+    'Test3',
+    'Test4',
+    'Final',
+    'Grade'
+  ],
+PRETTY: True,
+URL: https://people.sc.fsu.edu/~jburkata/csv/grades.csv
+
